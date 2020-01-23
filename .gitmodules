@@ -1,0 +1,4 @@
+[submodule "realHTML4NaturalCore"]
+	path = realHTML4NaturalCore
+	url = git@github.com:audacity363/realHTML4NaturalCore.git
+	branch = websockets
